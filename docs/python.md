@@ -1,8 +1,14 @@
-Python 3 备忘清单
-===
+--- 
+title : Python
+
+
+id : "my-id"
+
+---
+@import "../css/new.less"
 
 Python 备忘单是 [Python 3](https://www.python.org/) 编程语言的单页参考表
-
+===
 入门
 -----
 

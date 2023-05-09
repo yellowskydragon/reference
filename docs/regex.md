@@ -1,3 +1,12 @@
+--- 
+title : Windows
+
+
+id : "my-id"
+
+---
+@import "../css/new.less"
+
 RegEX 备忘清单
 ===
 
