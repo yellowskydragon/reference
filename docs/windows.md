@@ -81,4 +81,11 @@ id : "my-id"
 - 向日葵
 - 百度网盘
 - 迅雷
+- steam++
+- obs
+- fancontrol
+- telegram
+- traffic monitor
+- RTSS
+
 
